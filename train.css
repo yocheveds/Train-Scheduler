@@ -1,0 +1,30 @@
+
+
+
+
+body{
+background-image: url("https://lh3.googleusercontent.com/rfXoNCDYssDcwIma64rTqrF6VE155Lpt1o-x9R6eLUTiVQe8n9bU0wZxtx9e7WWesBU=h900");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+div.jumbotron{
+background-color: #380800;
+color: #ffffff;
+text-align: center;
+
+margin-top: 10px;
+
+}
+
+.h1{
+font-size: 22px;
+font-style: italic;
+font-weight: 900;
+
+}
+
+td {
+	padding: 0 35px;
+}
