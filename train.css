@@ -1,0 +1,30 @@
+
+
+
+
+body{
+background-image: url("http://wallpaperbackgrounds.com/Content/wallpapers/man%20made/subway/train-man-made-33158.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+div.jumbotron{
+background-color: #473400;
+color: #ffffff;
+text-align: center;
+margin-top: 10px;
+height: 200px;
+
+}
+
+.h1{
+font-size: 22px;
+font-style: italic;
+font-weight: 900;
+
+}
+
+td {
+	padding: 0 35px;
+}
